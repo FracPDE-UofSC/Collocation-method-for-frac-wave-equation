@@ -1,0 +1,3 @@
+[0527/193752.282:ERROR:file_io_win.cc(179)] CreateFile E:\DailySoftware\Google_Chrome_v64\Chrome\User Data\Crashpad\settings.dat: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0527/193752.299:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0527/193752.302:ERROR:file_io_win.cc(179)] CreateFile E:\DailySoftware\Google_Chrome_v64\Chrome\User Data\Crashpad\settings.dat: 另一个程序正在使用此文件，进程无法访问。 (0x20)
